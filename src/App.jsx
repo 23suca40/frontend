@@ -21,7 +21,7 @@ function App() {
       const response = await MedicineService.getAllMedicines();
       setMedicines(response.data || []);
     } catch (err) {
-      console.error('Failed to fetch medicines', err);
+           console.error('Failed to fetch medicines', err);
     } finally {
       setLoading(false);
     }
