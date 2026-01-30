@@ -3,7 +3,7 @@ import { ToastContainer } from 'react-toastify';
 import MedicineForm from './components/MedicineForm';
 import StockList from './components/StockList';
 import MedicineService from './services/MedicineService';
-import 'react-toastify/dist/ReactToastify.css';
+     import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
       const [medicines, setMedicines] = useState([]);
