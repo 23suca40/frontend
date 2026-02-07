@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api/medicines';
+const API_BASE_URL = 'https://medicalstock-backend.onrender.com/api/medicines';
 
 const MedicineService = {
   // Get all medicines
