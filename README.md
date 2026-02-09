@@ -1,5 +1,5 @@
 # Medical Stock Management System – Frontend
-# Project Summary
+## Project Summary
 
 The Medical Stock Management System (Frontend) is a web-based user interface developed to manage medicine inventory efficiently. This frontend application allows users to interact with the system to perform CRUD (Create, Read, Update, Delete) operations on medical stock data in a simple and user-friendly way.
 
@@ -7,7 +7,7 @@ The application provides forms to add new medicines, displays available stock in
 
 This frontend is designed to reduce manual work, improve accuracy, and make medicine stock handling easier for hospitals and medical stores.
 
-# Frontend Features
+## Frontend Features
 
 Add new medicine details
 
@@ -21,7 +21,7 @@ Simple and responsive user interface
 
 Real-time data interaction with backend APIs
 
-# Technologies Used (Frontend)
+## Technologies Used (Frontend)
 
 React.js
 
@@ -33,7 +33,7 @@ JavaScript
 
 Axios (for API communication)
 
- # CRUD Operation Flow (Frontend)
+ ## CRUD Operation Flow (Frontend)
 
 Create: Form to add new medicine
 
@@ -43,7 +43,7 @@ Update: Edit existing medicine details
 
 Delete: Remove expired or unwanted medicines
 
-# Future Enhancements
+## Future Enhancements
 
 The system can be enhanced in the future with the following features:
 
