@@ -57,3 +57,4 @@ Report generation (daily/monthly stock reports)
 <img width="1366" height="768" alt="Screenshot 2026-02-09 132944" src="https://github.com/user-attachments/assets/15691477-990b-47bf-abe6-4f63849b327c" />
 <img width="1366" height="768" alt="Screenshot 2026-02-09 192359" src="https://github.com/user-attachments/assets/bc28172a-21d4-4ea7-bf1e-f1d13bc207e7" />
 <img width="1366" height="768" alt="Screenshot 2026-02-09 191531" src="https://github.com/user-attachments/assets/cfd4c77b-ef94-4162-862d-c2e5b48bdf26" />
+<img width="1366" height="768" alt="Screenshot 2026-02-09 205119" src="https://github.com/user-attachments/assets/63daf09f-009c-4174-a62a-f19b2792947d" />
